@@ -1,5 +1,9 @@
 # Universal Extractor — 通用网页内容提取器
 
+> ⚠️ **此项目已归档，不再维护。**
+> 请使用新版：[**universal-extractor**](https://github.com/2913636/universal-extractor)
+> — 6 层降级链（含 Vision LLM）+ MCP Server 集成 + 7 因子完整性评分。
+
 5 层降级链，对任意网页自动选择最佳策略提取正文。
 
 ```
